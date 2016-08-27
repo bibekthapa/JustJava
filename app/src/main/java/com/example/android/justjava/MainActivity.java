@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void submitOrder(View view) {
 
-      String priceMessage="Free";
+        String priceMessage = "She said \n  Free";
         displayMessage(priceMessage);
 
     }
