@@ -39,6 +39,7 @@
             android:textColor="@android:color/black"
             android:textSize="16sp"
             android:textStyle="bold"
+            android:text="2"
 
             />
 
